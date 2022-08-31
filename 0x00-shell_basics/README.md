@@ -16,3 +16,4 @@ The 11-lists file would list all files (even ones with names beginning with a pe
 100-lets_move moves all files starting with uppercase to tmp/u
 102-tree create welcome/to/school irrespective of whetger the folxdrs exist or not
 103-commas would list all files including hidden ones seperated by commas amd directories end with a /
+School.mgc makes yiur computer detect school files
