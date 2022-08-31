@@ -9,3 +9,4 @@ The 6-firstdirectory would make a directory called my_first_directory in the tmp
 The 8-firstdelete file removes betty from /tmp/my_first_directory
 9firstdirdeletion would delete my_first_directory from the tmp folder
 ,The 10-back file switches to previous workimg directory
+The 11-lists file would list all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
