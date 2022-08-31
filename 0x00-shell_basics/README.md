@@ -4,3 +4,4 @@
 3-listfiles would list files in current directory in long format
 The 4-listmorefiles lists more files in long format including hidden files
 5-listfilesdigitonly lists group IDS and hidden files in long format
+The 6-firstdirectory would make a directory called my_first_directory in the tmp folder
