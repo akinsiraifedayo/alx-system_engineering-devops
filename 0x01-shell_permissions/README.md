@@ -10,3 +10,4 @@
 9-John_Doe does the -rwxr-x-wx permission for file hello
 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode.
 11-directories_permissions give permissions recursively to current directory except files
+12-directory_permissions creaked my_dir with 751 permissions
