@@ -13,3 +13,4 @@
 12-directory_permissions creaked my_dir with 751 permissions
 13-change_group would change group of file hello to school
 100-change_owner_and_group changes the owner of all files in current working directory to vincent and group to staff
+101-symbolic_link_permissions changes the group and owner of _hello to vincent and staff respectively
