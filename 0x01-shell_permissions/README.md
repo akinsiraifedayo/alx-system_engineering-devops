@@ -9,3 +9,4 @@
 8-James_Bond sets the file hello to have no permissions for owner and group but all permissions for others
 9-John_Doe does the -rwxr-x-wx permission for file hello
 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions give permissions recursively to current directory except files
