@@ -7,3 +7,4 @@
 6-multiple_permissions adds execute permission to owner and group and read permission to others pn the file hello
  7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond sets the file hello to have no permissions for owner and group but all permissions for others
+9-John_Doe does the -rwxr-x-wx permission for file hello
