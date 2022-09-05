@@ -10,3 +10,4 @@
 9-duplicate_last_line would duplicate last line of iacta and append it back to itself
 10-no_more_js deletes all js files from current directory
 11-directories gets number of directory and directories in current path, excluding current working diectory and parent
+12-newest_files sorts files in order of date and prints the newest 10
