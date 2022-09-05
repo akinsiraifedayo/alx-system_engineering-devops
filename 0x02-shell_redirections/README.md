@@ -5,3 +5,5 @@
 4-lastlines displays last 10 lines of /etc/passwd
 5-firstlines prints first 10 lines of /etc/passwd
 6-third_line prints the third line of file iacta
+7-file creates a file with content Best School
+8-cwd_state takes the output of ls -la and puts it in a file
