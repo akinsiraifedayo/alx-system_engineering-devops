@@ -12,3 +12,4 @@
 11-directories gets number of directory and directories in current path, excluding current working diectory and parent
 12-newest_files sorts files in order of date and prints the newest 10
 13-unique prints unique numbers in a text file in sorted format
+14-findthatword finds root in the /etc/passwd file and prints that line
