@@ -12,3 +12,4 @@
 11-binary_to_decimal converts  to decimal
 12-combinations prints all combinations of aa to zz except oo
 13-print_float prints float num
+100-decimal_to_hexadecimal converts Decimal to base 16
