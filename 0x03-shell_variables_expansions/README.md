@@ -8,3 +8,4 @@
 7-create_global_variable creates a global variable
 8-true_knowledge sums true knowledge plus 128
 9-divide_and_rule divides power by divide
+10-love_exponent_breath prints breath to power of love
