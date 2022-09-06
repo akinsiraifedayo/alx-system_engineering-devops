@@ -14,3 +14,4 @@
 13-unique prints unique numbers in a text file in sorted format
 14-findthatword finds root in the /etc/passwd file and prints that line
 15-countthatword counts the number of lines containing pattern bin
+16-whatsnext finds the pattern root in /etc/passwd and prints 3 lines after it
