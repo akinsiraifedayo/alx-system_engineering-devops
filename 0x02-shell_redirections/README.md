@@ -13,3 +13,4 @@
 12-newest_files sorts files in order of date and prints the newest 10
 13-unique prints unique numbers in a text file in sorted format
 14-findthatword finds root in the /etc/passwd file and prints that line
+15-countthatword counts the number of lines containing pattern bin
