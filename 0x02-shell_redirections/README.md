@@ -16,3 +16,4 @@
 15-countthatword counts the number of lines containing pattern bin
 16-whatsnext finds the pattern root in /etc/passwd and prints 3 lines after it
 17-hidethisword prints lines in /etc/passwd not containing bin
+18-letteronly prints only lines that starts with an alphabet in conf file
