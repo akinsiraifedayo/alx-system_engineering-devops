@@ -19,3 +19,4 @@
 18-letteronly prints only lines that starts with an alphabet in conf file
 19-AZ replaces A with Z and c with e
 20-hiago deletes c and C from output
+21-reverse reverses an input
