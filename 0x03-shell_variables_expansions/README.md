@@ -11,3 +11,4 @@
 10-love_exponent_breath prints breath to power of love
 11-binary_to_decimal converts  to decimal
 12-combinations prints all combinations of aa to zz except oo
+13-print_float prints float num
