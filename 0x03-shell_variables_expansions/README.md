@@ -5,3 +5,4 @@
 4-global_variables prints environmental variables
 5-local_variables lists local variables
 6-create_local_variable creates a variable called BEST with value SChool
+7-create_global_variable creates a global variable
