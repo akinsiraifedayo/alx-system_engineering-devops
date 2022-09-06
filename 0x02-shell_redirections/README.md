@@ -20,3 +20,4 @@
 19-AZ replaces A with Z and c with e
 20-hiago deletes c and C from output
 21-reverse reverses an input
+22-users_and_homes prints users and their home dir
