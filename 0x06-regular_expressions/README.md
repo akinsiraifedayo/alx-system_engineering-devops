@@ -1,2 +1,1 @@
-# Regular expressions alx-sys-devops
-
+# Regular expression
