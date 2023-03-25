@@ -7,7 +7,3 @@ key_passphrase="betty"
 
 # Generate RSA key pair with specified name, bits, and passphrase
 ssh-keygen -t rsa -b $key_bits -f ~/.ssh/$key_name -N $key_passphrase
-
-# Print success message
-echo "RSA key pair created with name $key_name and $key_bits bits."
-
