@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Connects to server 54.89.179.183 with key in ~/myalxkey
+
+ssh -i ~/myalxkey ubuntu@54.89.179.183
+
